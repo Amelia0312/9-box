@@ -1,12 +1,12 @@
-.wrapper{
+		.wrapper{
 			overflow: hidden;
-			border:1px solid #aaa;
+			text-align: center;
 		}
 		.wrapper-content{
 			width: 31%;
-    		padding-bottom: 31%;
-    		margin: 1%;
-    		border-radius: 10%;
-    		float: left;
-    		background-color: yellow;
+    			padding-bottom: 31%;
+    			margin: 1%;
+    			border-radius: 10%;
+    			float: left;
+    			background-color: yellow;
 		}
